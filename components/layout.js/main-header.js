@@ -6,7 +6,7 @@ function MainHeader() {
     return (
         <header className={classes.header}>
             <div className={classes.logo}>
-                <Link href="/">Pista Academy</Link>
+                <Link href="/">Project Next</Link>
             </div>
             <nav className={classes.navigation}>
                 <ul>
